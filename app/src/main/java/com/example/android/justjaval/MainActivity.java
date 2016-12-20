@@ -94,19 +94,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-//    /*
-//    * clear order
-//    */
-//    public void clearOrder(View view) {
-//        counter = 0;
-//        totalPrice = 0;
-//        counterDisplay.setText("0");
-//        orderSummary.setText("$0.0");
-//        wheapCream.setChecked(false);
-//        chocolate.setChecked(false);
-//        customerName.setText("");
-//    }
-
     /**
      * Calculates the price of the order.
      *
